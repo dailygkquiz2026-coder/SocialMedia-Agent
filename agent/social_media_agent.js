@@ -73,7 +73,7 @@ Return ONLY a valid JSON object — no markdown, no explanation:
 
 async function generateImage(prompt) {
   const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key=${GOOGLE_AI_API_KEY}`,
+    `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=${GOOGLE_AI_API_KEY}`,
     {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
@@ -102,7 +102,7 @@ async function generateImage(prompt) {
 async function generateVideo(prompt) {
   // Start the generation
   const startRes = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/veo-3.0-generate-preview:generateVideo?key=${GOOGLE_AI_API_KEY}`,
+    `https://generativelanguage.googleapis.com/v1beta/models/veo-2.0-generate-001:generateVideo?key=${GOOGLE_AI_API_KEY}`,
     {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
