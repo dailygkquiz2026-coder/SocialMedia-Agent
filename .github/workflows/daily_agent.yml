@@ -1,0 +1,39 @@
+name: PantryPulse Daily Social Agent
+
+on:
+  schedule:
+    - cron: '30 4 * * *'   # 10:00 AM IST (UTC+5:30)
+  workflow_dispatch:        # allow manual trigger from Actions tab
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run social media agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_AI_API_KEY: ${{ secrets.GOOGLE_AI_API_KEY }}
+        run: npm start
+
+      - name: Commit and push outputs
+        run: |
+          git config user.name  "PantryPulse Bot"
+          git config user.email "bot@pantrypulse.in"
+          git add outputs/
+          git diff --staged --quiet && echo "Nothing to commit" || (
+            git commit -m "chore: daily content $(date -u +%Y-%m-%d)" &&
+            git push
+          )

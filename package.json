@@ -1,0 +1,16 @@
+{
+  "name": "pantrypulse-social-agent",
+  "version": "1.0.0",
+  "description": "Daily AI-powered social media content generator for PantryPulse.in",
+  "type": "module",
+  "main": "agent/social_media_agent.js",
+  "scripts": {
+    "start": "node agent/social_media_agent.js",
+    "agent": "node agent/social_media_agent.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": ["pantrypulse", "social-media", "ai-agent", "imagen", "veo"],
+  "license": "MIT"
+}
