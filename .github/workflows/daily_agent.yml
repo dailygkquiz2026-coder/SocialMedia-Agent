@@ -26,6 +26,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_AI_API_KEY: ${{ secrets.GOOGLE_AI_API_KEY }}
+          KREA_API_KEY: ${{ secrets.KREA_API_KEY }}
         run: npm start
 
       - name: Commit and push outputs
