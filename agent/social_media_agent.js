@@ -1,6 +1,6 @@
 /**
  * PantryPulse Social Media Agent
- * Generates daily AI-powered content: strategy, image (Gemini), video (Veo 2)
+ * Generates daily AI-powered content: strategy, image (Gemini), video (Krea AI)
  * Uses Node 20 built-in fetch — no external dependencies required.
  */
 
@@ -8,9 +8,11 @@ import fs from 'fs';
 
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const GOOGLE_AI_API_KEY = process.env.GOOGLE_AI_API_KEY;
+const KREA_API_KEY = process.env.KREA_API_KEY;
 
 if (!ANTHROPIC_API_KEY) throw new Error('ANTHROPIC_API_KEY is not set');
 if (!GOOGLE_AI_API_KEY) throw new Error('GOOGLE_AI_API_KEY is not set');
+if (!KREA_API_KEY) throw new Error('KREA_API_KEY is not set');
 
 const today = new Date().toISOString().split('T')[0];
 const outputDir = `outputs/${today}`;
@@ -36,8 +38,8 @@ Return ONLY a valid JSON object — no markdown, no explanation:
   "content_angle": "the specific angle tailored to PantryPulse's products/audience",
   "caption": "ready-to-post Instagram caption (max 150 words) including 10–15 relevant hashtags",
   "call_to_action": "one clear CTA sentence",
-  "image_prompt": "detailed photorealistic prompt for Imagen 3 — 1:1 square, bright natural lighting, styled Indian kitchen or food scene, no text overlays",
-  "video_prompt": "detailed cinematic prompt for Veo 3.1 — 9:16 vertical, 8 seconds, smooth camera movement, vibrant colors, dynamic food or kitchen action shot"
+  "image_prompt": "detailed photorealistic prompt for Gemini image generation — 1:1 square, bright natural lighting, styled Indian kitchen or food scene, no text overlays",
+  "video_prompt": "detailed cinematic prompt for Krea AI (Kling) — 9:16 vertical, 8 seconds, smooth camera movement, vibrant colors, dynamic food or kitchen action shot"
 }`;
 
   const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -96,50 +98,54 @@ async function generateImage(prompt) {
 }
 
 // ---------------------------------------------------------------------------
-// Veo 2 — reel video (long-running operation with polling)
+// Krea AI — reel video (async job with polling)
+// Default model: kling/kling-2.5  Override via KREA_VIDEO_MODEL env var.
 // ---------------------------------------------------------------------------
 
 async function generateVideo(prompt) {
-  // Start the generation
-  const startRes = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/veo-2.0-generate-001:predictLongRunning?key=${GOOGLE_AI_API_KEY}`,
-    {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({
-        instances: [{ prompt }],
-        parameters: { aspectRatio: '9:16', durationSeconds: 8 },
-      }),
-    }
-  );
+  const model = process.env.KREA_VIDEO_MODEL || 'kling/kling-2.5';
+
+  const startRes = await fetch(`https://api.krea.ai/generate/video/${model}`, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+      Authorization: `Bearer ${KREA_API_KEY}`,
+    },
+    body: JSON.stringify({ prompt, aspectRatio: '9:16', duration: 8 }),
+  });
 
   if (!startRes.ok) {
     const err = await startRes.text();
-    throw new Error(`Veo 2 start error ${startRes.status}: ${err}`);
+    throw new Error(`Krea video start error ${startRes.status}: ${err}`);
   }
 
   const startData = await startRes.json();
-  const operationName = startData.name;
-  if (!operationName) throw new Error('Veo 2 did not return an operation name');
+  const jobId = startData.job_id;
+  if (!jobId) throw new Error('Krea did not return a job_id');
 
-  console.log(`  Veo 2 operation started: ${operationName}`);
+  console.log(`  Krea job started: ${jobId}`);
 
-  // Poll every 30 s for up to 6 minutes
-  for (let attempt = 1; attempt <= 12; attempt++) {
-    console.log(`  Polling Veo (attempt ${attempt}/12)...`);
-    await sleep(30_000);
+  // Poll every 10 s for up to 10 minutes
+  for (let attempt = 1; attempt <= 60; attempt++) {
+    console.log(`  Polling Krea (attempt ${attempt}/60)...`);
+    await sleep(10_000);
 
-    const pollRes = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/${operationName}?key=${GOOGLE_AI_API_KEY}`
-    );
+    const pollRes = await fetch(`https://api.krea.ai/jobs/${jobId}`, {
+      headers: { Authorization: `Bearer ${KREA_API_KEY}` },
+    });
 
     if (!pollRes.ok) continue;
 
     const pollData = await pollRes.json();
-    if (pollData.done) {
-      const b64 = pollData.response?.videos?.[0]?.bytesBase64Encoded;
-      if (!b64) throw new Error('Veo finished but returned no video data');
-      return b64;
+
+    if (pollData.status === 'completed') {
+      const videoUrl = pollData.result?.video_url || pollData.result?.urls?.[0];
+      if (!videoUrl) throw new Error('Krea job completed but returned no video URL');
+      return videoUrl;
+    }
+
+    if (pollData.status === 'failed') {
+      throw new Error(`Krea job failed: ${JSON.stringify(pollData.result)}`);
     }
   }
 
@@ -176,13 +182,13 @@ ${strategy.call_to_action}
 ${strategy.image_prompt}
 \`\`\`
 
-## Video Prompt (Veo 2)
+## Video Prompt (Krea AI)
 \`\`\`
 ${strategy.video_prompt}
 \`\`\`
 ${
   videoTimedOut
-    ? '\n> **Veo 2 timed out.** Paste the video prompt above into [Google AI Studio VideoFX](https://aistudio.google.com/app/generate-videos) to generate manually.'
+    ? '\n> **Krea AI timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.'
     : ''
 }
 `;
@@ -220,18 +226,22 @@ async function main() {
     }
 
     // ── 3. Video ─────────────────────────────────────────────────────────────
-    console.log('🎬 Generating reel with Veo 2 (this can take 3–5 min)...');
+    const kreaModel = process.env.KREA_VIDEO_MODEL || 'kling/kling-2.5';
+    console.log(`🎬 Generating reel with Krea AI (${kreaModel}, this can take 3–10 min)...`);
     let videoTimedOut = false;
     try {
-      const videoB64 = await generateVideo(strategy.video_prompt);
-      if (videoB64) {
-        fs.writeFileSync(`${outputDir}/reel.mp4`, Buffer.from(videoB64, 'base64'));
+      const videoUrl = await generateVideo(strategy.video_prompt);
+      if (videoUrl) {
+        const videoRes = await fetch(videoUrl);
+        if (!videoRes.ok) throw new Error(`Failed to download video: ${videoRes.status}`);
+        const buffer = Buffer.from(await videoRes.arrayBuffer());
+        fs.writeFileSync(`${outputDir}/reel.mp4`, buffer);
         summary.steps.video = 'success';
         console.log('✅ Video saved: reel.mp4\n');
       } else {
         videoTimedOut = true;
         summary.steps.video = 'timeout — prompt saved in brief.md';
-        console.log('⚠️  Veo timed out — video prompt saved in brief.md for manual use\n');
+        console.log('⚠️  Krea timed out — video prompt saved in brief.md for manual use\n');
       }
     } catch (err) {
       videoTimedOut = true;
