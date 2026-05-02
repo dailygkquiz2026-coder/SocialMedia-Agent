@@ -1,6 +1,6 @@
 /**
  * PantryPulse Social Media Agent
- * Generates daily AI-powered content: strategy, image (Imagen 3), video (Veo 3.1)
+ * Generates daily AI-powered content: strategy, image (Gemini), video (Veo 2)
  * Uses Node 20 built-in fetch — no external dependencies required.
  */
 
@@ -68,41 +68,41 @@ Return ONLY a valid JSON object — no markdown, no explanation:
 }
 
 // ---------------------------------------------------------------------------
-// Imagen 3 — post image
+// Gemini image generation — post image
 // ---------------------------------------------------------------------------
 
 async function generateImage(prompt) {
   const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=${GOOGLE_AI_API_KEY}`,
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-preview-image-generation:generateContent?key=${GOOGLE_AI_API_KEY}`,
     {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({
-        instances: [{ prompt }],
-        parameters: { sampleCount: 1, aspectRatio: '1:1' },
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { responseModalities: ['image', 'text'] },
       }),
     }
   );
 
   if (!res.ok) {
     const err = await res.text();
-    throw new Error(`Imagen 3 error ${res.status}: ${err}`);
+    throw new Error(`Image generation error ${res.status}: ${err}`);
   }
 
   const data = await res.json();
-  const b64 = data.predictions?.[0]?.bytesBase64Encoded;
-  if (!b64) throw new Error('Imagen 3 returned no image data');
-  return b64;
+  const part = data.candidates?.[0]?.content?.parts?.find((p) => p.inlineData);
+  if (!part) throw new Error('Image generation returned no image data');
+  return part.inlineData.data;
 }
 
 // ---------------------------------------------------------------------------
-// Veo 3.1 — reel video (long-running operation with polling)
+// Veo 2 — reel video (long-running operation with polling)
 // ---------------------------------------------------------------------------
 
 async function generateVideo(prompt) {
   // Start the generation
   const startRes = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/veo-2.0-generate-001:generateVideo?key=${GOOGLE_AI_API_KEY}`,
+    `https://generativelanguage.googleapis.com/v1beta/models/veo-2.0-generate-001:predictLongRunning?key=${GOOGLE_AI_API_KEY}`,
     {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
@@ -115,14 +115,14 @@ async function generateVideo(prompt) {
 
   if (!startRes.ok) {
     const err = await startRes.text();
-    throw new Error(`Veo 3.1 start error ${startRes.status}: ${err}`);
+    throw new Error(`Veo 2 start error ${startRes.status}: ${err}`);
   }
 
   const startData = await startRes.json();
   const operationName = startData.name;
-  if (!operationName) throw new Error('Veo 3.1 did not return an operation name');
+  if (!operationName) throw new Error('Veo 2 did not return an operation name');
 
-  console.log(`  Veo operation started: ${operationName}`);
+  console.log(`  Veo 2 operation started: ${operationName}`);
 
   // Poll every 30 s for up to 6 minutes
   for (let attempt = 1; attempt <= 12; attempt++) {
@@ -171,18 +171,18 @@ ${strategy.call_to_action}
 
 ---
 
-## Image Prompt (Imagen 3)
+## Image Prompt (Gemini)
 \`\`\`
 ${strategy.image_prompt}
 \`\`\`
 
-## Video Prompt (Veo 3.1)
+## Video Prompt (Veo 2)
 \`\`\`
 ${strategy.video_prompt}
 \`\`\`
 ${
   videoTimedOut
-    ? '\n> **Veo timed out.** Paste the video prompt above into [Google AI Studio VideoFX](https://aistudio.google.com/app/generate-videos) to generate manually.'
+    ? '\n> **Veo 2 timed out.** Paste the video prompt above into [Google AI Studio VideoFX](https://aistudio.google.com/app/generate-videos) to generate manually.'
     : ''
 }
 `;
@@ -207,7 +207,7 @@ async function main() {
     console.log(`✅ Strategy: "${strategy.trend_topic}"\n`);
 
     // ── 2. Image ─────────────────────────────────────────────────────────────
-    console.log('🖼️  Generating image with Imagen 3...');
+    console.log('🖼️  Generating image with Gemini...');
     try {
       const imageB64 = await generateImage(strategy.image_prompt);
       fs.writeFileSync(`${outputDir}/post.png`, Buffer.from(imageB64, 'base64'));
@@ -220,7 +220,7 @@ async function main() {
     }
 
     // ── 3. Video ─────────────────────────────────────────────────────────────
-    console.log('🎬 Generating reel with Veo 3.1 (this can take 3–5 min)...');
+    console.log('🎬 Generating reel with Veo 2 (this can take 3–5 min)...');
     let videoTimedOut = false;
     try {
       const videoB64 = await generateVideo(strategy.video_prompt);
