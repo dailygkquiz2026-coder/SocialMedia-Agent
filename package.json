@@ -11,6 +11,6 @@
   "engines": {
     "node": ">=20"
   },
-  "keywords": ["pantrypulse", "social-media", "ai-agent", "imagen", "veo"],
+  "keywords": ["pantrypulse", "social-media", "ai-agent", "krea", "flux", "kling"],
   "license": "MIT"
 }

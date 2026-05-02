@@ -8,7 +8,7 @@ on:
 jobs:
   generate-content:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repo
@@ -24,8 +24,6 @@ jobs:
 
       - name: Run social media agent
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GOOGLE_AI_API_KEY: ${{ secrets.GOOGLE_AI_API_KEY }}
           KREA_API_KEY: ${{ secrets.KREA_API_KEY }}
         run: npm start
 
