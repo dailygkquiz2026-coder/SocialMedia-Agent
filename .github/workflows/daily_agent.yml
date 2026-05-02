@@ -24,6 +24,7 @@ jobs:
 
       - name: Run social media agent
         env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           KREA_API_KEY: ${{ secrets.KREA_API_KEY }}
         run: npm start
 
