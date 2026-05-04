@@ -1,0 +1,46 @@
+# PantryPulse Content Brief — 2026-05-04
+
+## Trend Topic
+Buddha Purnima 2026 — mindful eating, sattvic food revival, and the growing plant-based wellness movement in India
+
+## Content Angle
+A 'Sattvic Pantry Essentials' spotlight for Buddha Purnima, showcasing PantryPulse's pure, unprocessed staples — rock salt, cold-pressed oils, whole moong dal, jaggery, A2 ghee, and millets — positioned as the building blocks of a calm, nourishing kitchen rooted in Indian tradition
+
+## Caption
+Happy Buddha Purnima 🙏🪷
+
+Today we honour simplicity, compassion & mindful nourishment.
+
+The sattvic kitchen isn't a trend — it's our grandmother's wisdom, backed by modern nutrition.
+
+Here's your Sattvic Pantry Checklist:
+✦ Whole moong dal
+✦ Cold-pressed groundnut oil
+✦ Organic jaggery
+✦ Sendha namak
+✦ Foxtail millet
+✦ A2 cow ghee
+✦ Pure turmeric
+
+Clean ingredients. Calm mind. Happy gut.
+
+All available on PantryPulse.in — sourced pure, delivered fresh 💛
+
+#BuddhaPurnima #SattvicFood #MindfulEating #PantryPulse #IndianKitchen #CleanEating #PlantBased #MilletRevolution #WholeFoods #AyurvedicLiving #HealthyPantry #DesiSuperfoods #OrganicIndia #TraditionalFood #PantryEssentials
+
+## Call to Action
+Tap the link in bio to build your sattvic pantry with PantryPulse — pure ingredients delivered to your door!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+A photorealistic overhead flat-lay photograph of sattvic Indian pantry ingredients arranged beautifully on a rustic wooden chakla board placed on a white marble countertop in a bright modern Indian kitchen with morning sunlight streaming through a window. Items include a brass bowl of whole green moong dal, a small clay pot of golden jaggery chunks, a glass bottle of cold-pressed groundnut oil, a copper bowl of pink rock salt, a terracotta plate of foxtail millet grains, a small brass diya-shaped bowl of bright yellow turmeric powder, and a traditional steel container of golden A2 ghee. Scattered fresh curry leaves and a white lotus flower as a Buddha Purnima accent. Soft natural shadows, warm tones, 1:1 square format, styled editorial food photography, no text overlays
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+Cinematic 9:16 vertical video, 8 seconds, smooth top-down dolly-in camera movement starting wide and slowly pushing closer into a beautifully arranged sattvic pantry spread on a sunlit wooden surface in a modern Indian kitchen. A woman's hands gently pour whole moong dal from a brass measuring cup into a ceramic bowl, creating a satisfying grain-falling ASMR moment. Golden morning light catches particles of turmeric dust in the air. Other ingredients — jaggery, rock salt, millet, ghee in a brass bowl, cold-pressed oil bottle — are styled around the frame. A single white lotus bloom sits at the corner. Vibrant warm color grading, shallow depth of field with soft bokeh on background brass utensils and green indoor plants, gentle natural camera shake for organic feel, no text overlays
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
