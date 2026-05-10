@@ -1,0 +1,39 @@
+# PantryPulse Content Brief — 2026-05-10
+
+## Trend Topic
+Mango season peak in India + gut health awareness trend 2026
+
+## Content Angle
+Transform pantry staples into a 2-minute Aam Panna concentrate using raw mangoes and PantryPulse spices (cumin, black salt, jaggery) — positioned as a probiotic-friendly summer cooler that beats the heatwave
+
+## Caption
+Heatwave? Your dadi's Aam Panna is the ONLY energy drink you need. 🥭☀️
+
+Raw mango + roasted cumin + black salt + jaggery = the OG Indian electrolyte.
+
+We made a concentrate so good, you'll ditch every bottled drink this summer. Every ingredient? Already in your PantryPulse pantry.
+
+💛 Gut-friendly
+💛 Zero refined sugar
+💛 Ready in 2 minutes flat
+
+Save this. Share with your ghar ka chef. Thank us when the loo winds hit. 🌬️
+
+#AamPanna #MangoSeason #SummerCooler #IndianSuperdrink #PantryPulse #DesiKitchen #GutHealth #HeatwaveReady #RawMango #CleanEating #HomeMade #IndianFood #HealthyLiving #KairiSeason #PantryStaples
+
+## Call to Action
+Tap the link in bio to get farm-fresh raw mango pulp and roasted cumin delivered to your door before the mango season ends!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+Photorealistic top-down flat lay on a rustic terracotta surface in a bright modern Indian kitchen with abundant natural sunlight streaming from the left. Center frame: a traditional brass glass filled with vibrant golden-green aam panna garnished with fresh mint leaves and crushed ice. Surrounding the glass: halved raw green mangoes with visible pale yellow flesh, a small brass bowl of roasted cumin powder, a wooden spoon with pink Himalayan black salt, a chunk of dark organic jaggery, and scattered fresh curry leaves. Soft bokeh background showing white subway tiles and a wooden shelf with labeled glass jars of spices. Warm golden hour tones, dewy condensation on the brass glass, 1:1 square format, food photography style with shallow depth of field
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+Cinematic 9:16 vertical video, 8 seconds, 24fps with smooth continuous camera movement. Opens with a slow upward tilt from a rustic wooden cutting board where hands slice open a vibrant green raw mango, juice glistening in warm natural light. Camera smoothly transitions via a whip pan to a brass mortar where roasted cumin seeds are being freshly ground, releasing visible aromatic dust particles caught in golden sunlight. Quick dynamic cut to dark jaggery being dropped into a traditional steel pot with simmering mango pulp, creating a satisfying bubbling splash. Final shot: smooth dolly-in toward a tall brass glass as bright golden-green aam panna is poured in slow motion over crushed ice, mint sprig placed on top by a hand wearing delicate Indian bangles. Background is a modern Indian kitchen with open wooden shelving, terracotta pots, and soft-focus greenery near a sunlit window. Vibrant saturated colors, warm color grading, shallow depth of field throughout, ambient kitchen sounds
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
