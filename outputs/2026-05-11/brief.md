@@ -1,0 +1,35 @@
+# PantryPulse Content Brief — 2026-05-11
+
+## Trend Topic
+Mango season peak in India + gut health awareness trend 2026
+
+## Content Angle
+Showcasing PantryPulse's raw mango pickle masala kit and aam panna premix as modern pantry essentials — bridging nostalgia of homemade summer recipes with the convenience today's Indian kitchen demands, while tapping into the fermented foods and gut health conversation
+
+## Caption
+Mango season isn't just a season — it's an emotion. 🥭💛
+
+This summer, bring back Nani's raw mango pickle AND keep your gut happy with naturally fermented goodness. Our Pickle Masala Kit has everything you need — mustard seeds, fenugreek, cold-pressed mustard oil, red chilli, and that secret hing punch.
+
+No preservatives. No shortcuts. Just real taste, real ingredients.
+
+📦 Order your Mango Season Essentials box on PantryPulse.in before the kairi disappears!
+
+#MangoSeason #AamKaAchaar #PantryPulse #IndianPickle #GutHealth #FermentedFoods #HomemadePickle #KairiSeason #SummerEssentials #IndianKitchen #DesiFood #CleanEating #MangoLovers #PantryStaples #ShopIndian
+
+## Call to Action
+Tap the link in bio to grab your Mango Season Essentials Kit before stocks run out!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+A photorealistic overhead flat-lay shot of a vibrant Indian mango pickle making scene on a warm wooden kitchen countertop, square 1:1 format, bright natural sunlight streaming from a window on the left. Center frame features a rustic ceramic bowl filled with freshly cut raw green mango pieces glistening with turmeric and red chilli powder. Surrounding it: small brass bowls containing yellow mustard seeds, whole fenugreek seeds, bright red Kashmiri chilli powder, golden hing powder, and a small glass bottle of cold-pressed mustard oil. A traditional glass pickle jar half-filled sits to the right. Scattered whole green raw mangoes with leaves, a wooden spoon, and a clean white linen napkin in the background. The scene is styled in a modern Indian kitchen aesthetic with terracotta tiles partially visible, green indoor plant in soft focus background, warm golden tones, appetizing and inviting mood, no text or logos anywhere in the image
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+A cinematic 9:16 vertical video, 8 seconds, shot in a sun-drenched modern Indian kitchen with warm terracotta and white tones. Opens with a smooth close-up dolly shot of hands slicing fresh green raw mangoes on a wooden cutting board — juice glistening in natural light. Camera tilts up and glides right to reveal small brass bowls of colorful spices — vibrant red chilli, golden turmeric, mustard seeds — each one gets a quick shallow depth-of-field focus pull. At 4 seconds, a satisfying overhead shot shows the mango pieces being tossed into a large ceramic bowl as spice powders are sprinkled in slow motion, creating a beautiful dust cloud of red and yellow. The camera slowly pushes in as hands mix everything together with a wooden spoon. Final 2 seconds: a close-up of the finished pickle being spooned into a glass jar, glistening and vibrant, with a soft rack focus to whole mangoes and a sunny window in the background. Colors are rich and saturated, warm golden color grading, smooth continuous camera movement throughout, no text overlays
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
