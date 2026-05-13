@@ -1,0 +1,39 @@
+# PantryPulse Content Brief — 2026-05-13
+
+## Trend Topic
+Mango season peak in India + gut health awareness trend 2026
+
+## Content Angle
+Using PantryPulse pantry staples (chia seeds, jaggery powder, cardamom) to make a 3-ingredient Aam Panna concentrate that doubles as a probiotic-friendly summer cooler — tapping into the raw mango glut in May and India's growing gut-health obsession
+
+## Caption
+Aam Panna season is HERE and your dadi's recipe just got a PantryPulse upgrade 🥭✨
+
+Raw mango + PantryPulse organic jaggery powder + a pinch of our roasted jeera powder = the ultimate desi gut-friendly summer drink.
+
+3 ingredients. 10 minutes. Zero refined sugar.
+
+Boil. Blend. Chill. Sip. Repeat all summer long.
+
+Pro tip: Add a spoonful of PantryPulse chia seeds for extra fibre & that satisfying texture 💛
+
+Tag someone who NEEDS this recipe today!
+
+#AamPanna #MangoSeason #PantryPulse #IndianSummer #DesiCooler #GutHealth #CleanEating #NoRefinedSugar #HealthyIndian #SummerDrinks #KairiLove #PantryStaples #IndianKitchen #HomeMade #JaggeryLove
+
+## Call to Action
+Shop our Summer Pantry Kit — jaggery, chia seeds, jeera powder & more — link in bio!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+Photorealistic top-down flat lay on a rustic terracotta-tiled Indian kitchen counter bathed in bright warm natural window light: a tall brass glass filled with chilled golden-green aam panna garnished with fresh mint and chia seeds, surrounded by halved raw green mangoes with visible yellow flesh, a small brass bowl of golden jaggery powder, a tiny wooden spoon of roasted cumin powder, scattered chia seeds, and a few whole green cardamom pods. Soft cotton napkin in mustard yellow, a traditional Indian brass lota in the background. Condensation droplets on the glass. Shallow depth of field, vibrant colors, 1:1 square format, no text overlays, styled modern-meets-heritage Indian kitchen aesthetic
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+Cinematic 9:16 vertical video, 8 seconds, vibrant saturated colors, smooth continuous camera movement: opens with a close-up of a hand slicing a raw green mango on a wooden chopping board in a sunlit modern Indian kitchen — camera glides right to show jaggery powder being spooned from a PantryPulse-style glass jar into a brass pot of simmering mango pulp, steam rising beautifully — quick dissolve to a slow-motion overhead pour of the golden aam panna concentrate into a tall brass glass filled with ice, liquid splashing elegantly — camera pulls back slightly as chia seeds are sprinkled on top and a sprig of mint is placed, condensation forming on the glass — warm golden-hour natural light streaming through a window with sheer curtains, shallow depth of field, kitchen has white marble countertops with terracotta accents and hanging brass utensils in soft bokeh background
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
