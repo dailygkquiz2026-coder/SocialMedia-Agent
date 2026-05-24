@@ -1,0 +1,43 @@
+# PantryPulse Content Brief — 2026-05-24
+
+## Trend Topic
+Mango season peak + gut health awareness in India (raw mango & fermented foods trend, summer 2026)
+
+## Content Angle
+Quick 3-ingredient Aam Panna recipe using PantryPulse raw mango powder (amchur), black salt, and jaggery — positioned as a probiotic-friendly, heat-beating desi drink that replaces sugary sodas
+
+## Caption
+Your nani's Aam Panna was ahead of its time. 🥭✨
+
+This summer's hottest wellness drink isn't from a fancy cafe — it's from your own kitchen.
+
+3 ingredients. 2 minutes. Zero refined sugar.
+
+🫙 PantryPulse Amchur Powder
+🧂 Himalayan Black Salt
+🍯 Organic Jaggery Powder
+
+Mix. Chill. Sip your way through the heatwave.
+
+Gut-friendly. Electrolyte-rich. Pure desi magic.
+
+Drop a 🥭 if Aam Panna is your summer essential!
+
+#AamPanna #MangoSeason #DesiWellness #PantryPulse #IndianSuperfoods #GutHealth #SummerDrinks #Amchur #CleanEating #HealthyIndian #KitchenHacks #NoRefinedSugar #TraditionalRecipes #IndianFood #ShopPantryPulse
+
+## Call to Action
+Tap the link in bio to grab your PantryPulse Amchur & Jaggery combo — summer essentials delivered to your door!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+Photorealistic top-down 1:1 square photograph of a tall brass glass filled with chilled aam panna drink in a vibrant golden-green hue with ice cubes, placed on a rustic wooden chopping board in a bright modern Indian kitchen with white marble countertop. Beside the glass: a small brass katori of fine amchur powder, a tiny bowl of black salt, a chunk of golden jaggery, two whole raw green mangoes with leaves attached, and a traditional brass spoon. Bright natural sunlight streaming from a window on the left creating warm highlights and soft shadows. Fresh curry leaves and mint scattered artfully. Condensation droplets visible on the glass. Shallow depth of field, warm tones, styled food photography, no text overlays, no logos, no watermarks
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+Cinematic 9:16 vertical video, 8 seconds, vibrant saturated colors. Opens with a close-up smooth dolly-in shot of a hand scooping golden amchur powder from a PantryPulse-style glass jar with a wooden spoon, powder cascading into a traditional brass lota filled with chilled water creating a swirling cloud of golden color (1-3 sec). Cuts to a slow-motion pour of the mixed aam panna from the lota into a tall brass glass with ice cubes splashing upward, condensation forming on glass surface (3-5.5 sec). Final shot: camera slowly pulls back revealing the full styled scene — the brass glass of aam panna on a sunlit white marble Indian kitchen counter, sliced raw green mangoes beside it, a woman's hand reaching to pick up the glass, warm golden-hour natural light from a large window, steam-like chill mist rising from the iced drink, shallow depth of field with bokeh background of a modern Indian kitchen with open wooden shelving and terracotta pots (5.5-8 sec). Smooth camera movements throughout, natural ambient kitchen sounds
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
