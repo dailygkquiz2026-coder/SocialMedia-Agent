@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-16",
+  "steps": {
+    "strategy": "success",
+    "image": "error: Krea image start error 404: {\"message\":\"Endpoint not found\"}",
+    "video": "error: Krea video start error 422: {\"error\":\"Validation failed\",\"details\":[{\"field\":\"duration\",\"message\":\"Invalid input\",\"code\":\"invalid_union\"}]}",
+    "brief": "success"
+  },
+  "errors": [
+    "Image: Krea image start error 404: {\"message\":\"Endpoint not found\"}",
+    "Video: Krea video start error 422: {\"error\":\"Validation failed\",\"details\":[{\"field\":\"duration\",\"message\":\"Invalid input\",\"code\":\"invalid_union\"}]}"
+  ],
+  "status": "partial"
+}
