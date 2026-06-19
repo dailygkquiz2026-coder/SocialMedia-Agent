@@ -1,0 +1,41 @@
+# PantryPulse Content Brief — 2026-06-19
+
+## Trend Topic
+Monsoon immunity boosting with traditional Indian superfoods and golden milk revival
+
+## Content Angle
+Monsoon has officially arrived across India — position PantryPulse's turmeric, black pepper, jaggery, and dry ginger powder as the ultimate pantry essentials for making immunity-boosting haldi doodh at home, tapping into the growing Ayurveda-meets-modern-wellness trend
+
+## Caption
+Monsoon ka pehla sip should be this golden magic 🌧️✨
+
+Baarish ke mausam mein Nani ka nuskha never fails — a warm cup of Haldi Doodh made with PantryPulse essentials:
+🟡 Pure Lakadong Turmeric
+🖤 Tellicherry Black Pepper
+🤎 Organic Dry Ginger Powder
+🍯 Handcrafted Jaggery
+
+No shortcuts. No artificial anything. Just real ingredients from real farms, delivered to your modern Indian kitchen.
+
+This monsoon, let your pantry be your pharmacy. 💛
+
+Shop the Immunity Essentials Kit — link in bio!
+
+#HaldiDoodh #MonsoonImmunity #PantryPulse #GoldenMilk #IndianSuperfoods #AyurvedaEveryday #MonsoonHealth #KitchenRemedies #CleanEating #TurmericLatte #IndianPantryEssentials #HealthyLiving #FarmToKitchen #MonsoonVibes #GharKaKhana
+
+## Call to Action
+Tap the link in bio to shop our Monsoon Immunity Essentials Kit and get 15% off your first order!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+A photorealistic 1:1 square image of a steaming cup of golden turmeric milk (haldi doodh) in a handmade Indian ceramic cup placed on a rustic wooden tray in a modern Indian kitchen. Beside the cup are whole turmeric roots, cracked black peppercorns, a small brass bowl of dry ginger powder, and a chunk of dark jaggery. Soft rain is visible through a kitchen window in the blurred background. Bright natural daylight mixed with warm ambient light. Fresh curry leaves and a small mortar pestle add authenticity. Styled with a cotton handloom napkin in earthy tones. The scene feels cozy, warm, and inviting with shallow depth of field focusing on the golden milk cup. No text overlays, no logos, no watermarks.
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+A cinematic 9:16 vertical video, 8 seconds long. Opens with a close-up shot of monsoon rain hitting a kitchen window, camera smoothly pulls back to reveal a warm modern Indian kitchen counter. A pair of hands grates fresh turmeric root into a brass pan of simmering milk on a gas stove — wisps of aromatic steam rise beautifully. Camera tilts down in a smooth arc showing black peppercorns being cracked with a mortar pestle, then dry ginger powder being pinched and sprinkled into the milk. The golden liquid swirls as it is stirred with a wooden spoon. Final shot: the rich golden haldi doodh is poured in slow motion into a handcrafted ceramic cup, camera slowly pushes in as steam curls upward. Vibrant warm color grading with golden and amber tones. Natural kitchen sounds — rain, simmering milk, gentle clinking. Cinematic shallow depth of field throughout.
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.

@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "steps": {
+    "strategy": "success",
+    "image": "error: Krea image start error 404: {\"message\":\"Endpoint not found\"}",
+    "video": "error: Krea video start error 422: {\"error\":\"invalid_request\",\"reason\":\"deprecated_field\",\"field\":\"aspectRatio\",\"replacement\":\"aspect_ratio\",\"sunset_date\":\"2026-06-19\",\"migration_url\":\"https://docs.krea.ai/developers/deprecations#public-api-snake-case-fields\",\"message\":\"The request field \\\"aspectRatio\\\" is no longer supported. Use \\\"aspect_ratio\\\" instead.\"}",
+    "brief": "success"
+  },
+  "errors": [
+    "Image: Krea image start error 404: {\"message\":\"Endpoint not found\"}",
+    "Video: Krea video start error 422: {\"error\":\"invalid_request\",\"reason\":\"deprecated_field\",\"field\":\"aspectRatio\",\"replacement\":\"aspect_ratio\",\"sunset_date\":\"2026-06-19\",\"migration_url\":\"https://docs.krea.ai/developers/deprecations#public-api-snake-case-fields\",\"message\":\"The request field \\\"aspectRatio\\\" is no longer supported. Use \\\"aspect_ratio\\\" instead.\"}"
+  ],
+  "status": "partial"
+}
