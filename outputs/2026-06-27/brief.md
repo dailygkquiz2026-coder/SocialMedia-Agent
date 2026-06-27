@@ -1,0 +1,43 @@
+# PantryPulse Content Brief — 2026-06-27
+
+## Trend Topic
+Monsoon immunity and gut health with traditional Indian superfoods
+
+## Content Angle
+Monsoon has officially arrived across India — highlight PantryPulse's curated pantry essentials (haldi, dry ginger, jaggery, ajwain, black pepper, tulsi) to make a classic immunity-boosting kadha at home, tying into the gut-health and Ayurveda revival trend among urban millennials
+
+## Caption
+Baarish ka mausam + garam kadha = pure comfort ☔🫚
+
+Monsoon cravings hit different, but so do seasonal colds. This year, let your pantry fight back.
+
+Here's our 5-minute PantryPulse Kadha recipe:
+🟡 ½ tsp haldi
+🫚 1 inch dry ginger (saunth)
+🌿 4-5 tulsi leaves
+⚫ 5 crushed black peppercorns
+🤎 1 tsp jaggery
+💧 2 cups water — simmer, strain, sip!
+
+All ingredients sourced fresh & delivered to your door by @pantrypulse.in 💛
+
+What's YOUR monsoon immunity ritual? Tell us below 👇
+
+#MonsoonKadha #PantryPulse #IndianKitchen #AyurvedaDaily #ImmunityBooster #MonsoonVibes #GutHealthIndia #KadhaRecipe #TraditionalRemedies #HealthyIndian #PantryEssentials #HomeMadeKadha #IndianSuperfoods #CleanEating #SeasonalWellness
+
+## Call to Action
+Shop all monsoon immunity essentials at PantryPulse.in — link in bio!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+Photorealistic top-down 1:1 square image of a warm steaming brass cup of golden turmeric kadha placed on a rustic dark wooden tray in a modern Indian kitchen, surrounded by whole spices artfully arranged: dried ginger root, cracked black peppercorns, raw turmeric, small clay bowl of dark jaggery, fresh green tulsi leaves, and a tiny brass spoon, soft bright natural window light streaming from the left casting gentle warm shadows, raindrops visible on a window in the soft blurred background, cozy warm color palette with saffron and earthy tones, styled with a hand-woven cotton napkin, no text overlays, food photography style with shallow depth of field
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+Cinematic 9:16 vertical video, 8 seconds, smooth continuous camera movement starting with a close-up macro shot of rain droplets hitting a kitchen window glass with soft bokeh, camera slowly pulls back and tilts down to reveal a pair of hands crushing black peppercorns with a brass mortar and pestle on a wooden countertop, then a quick stylish cut to dry ginger and turmeric powder being sprinkled into a simmering copper pot on a gas stove with visible golden steam rising, camera does a gentle upward crane movement as jaggery melts into the brew creating swirling caramel patterns, final frame is a steady medium shot of the finished kadha being poured through a small strainer into a traditional brass cup with tulsi leaves floating on top, vibrant warm golden and amber color grading, natural kitchen lighting with moody monsoon atmosphere, shallow depth of field, cinematic 24fps look with rich saturated Indian kitchen tones
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
