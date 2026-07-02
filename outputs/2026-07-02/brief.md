@@ -1,0 +1,37 @@
+# PantryPulse Content Brief — 2026-07-02
+
+## Trend Topic
+Monsoon immunity boosting with traditional Indian superfoods and golden milk revival
+
+## Content Angle
+Monsoon has arrived across India — position PantryPulse's turmeric, black pepper, jaggery, and dry ginger powder as the ultimate monsoon immunity pantry kit, tying into the growing 'grandma's kitchen wisdom meets modern wellness' trend
+
+## Caption
+Baarish ka mausam + Nani ke nuskhe = Monsoon sorted ☔🍯
+
+This season, your pantry is your pharmacy. One cup of golden haldi doodh with a pinch of kali mirch, a spoon of desi ghee & gud can do what no supplement can.
+
+We packed everything you need in our Monsoon Immunity Pantry Box — farm-fresh turmeric, whole black pepper, organic jaggery & saunth powder. Straight from source to your kitchen.
+
+Because the best immunity starts with the best ingredients.
+
+🛒 Link in bio — monsoon-ready in one click!
+
+#MonsoonImmunity #HaldiDoodh #GoldenMilk #PantryPulse #IndianSuperfoods #MonsoonEssentials #DesiWellness #KitchenRemedies #TurmericLatte #CleanEating #HealthyIndianKitchen #GrandmasRecipe #FarmToKitchen #MonsoonVibes #AyurvedicLiving
+
+## Call to Action
+Tap the link in bio to grab your Monsoon Immunity Pantry Box before the next downpour hits!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+Photorealistic top-down 1:1 square photograph of a cozy Indian kitchen countertop scene during monsoon. A warm glass of golden turmeric milk sits at center on a brass coaster, steam gently rising. Around it are beautifully arranged raw ingredients: whole turmeric roots, black peppercorns in a small brass bowl, a chunk of organic jaggery on a wooden board, and dry ginger powder in a terracotta dish. A small PantryPulse-style kraft paper bag with spices spilling out sits to the side. Background shows a rain-streaked window with soft grey monsoon light filtering through sheer curtains. Fresh curry leaves and a mortar pestle add texture. Bright natural lighting with warm tones, styled on a weathered teak wood surface with a handwoven cotton napkin. No text overlays. Shot with shallow depth of field, food photography style, Canon 50mm lens look
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+Cinematic 9:16 vertical video, 8 seconds, vibrant warm color grading. Opens with a close-up of raindrops hitting a kitchen window — camera smoothly pulls back to reveal a modern Indian kitchen with warm pendant lighting. A woman's hands pour warm milk into a copper pan on a gas stove. Camera follows a smooth downward arc as she adds a spoonful of bright yellow turmeric powder creating a satisfying golden bloom in the milk, then drops whole black peppercorns that splash gently. Quick cut to a satisfying overhead pour of the finished golden milk into a clear glass mug, steam swirling upward. Final frame: the glass of golden milk placed on a wooden tray beside whole spices and a jaggery piece, rain visible through the window behind. Shallow depth of field, cinematic bokeh, natural monsoon daylight mixed with warm kitchen lighting, smooth dolly and tilt camera movements throughout
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
