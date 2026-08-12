@@ -1,0 +1,39 @@
+# PantryPulse Content Brief — 2026-08-12
+
+## Trend Topic
+Onam 2026 & the rise of traditional South Indian sadya culture going mainstream across India
+
+## Content Angle
+Curating the perfect Onam Sadya pantry essentials — from cold-pressed coconut oil to raw rice, jaggery, cardamom, and tamarind — positioned as a one-stop PantryPulse hamper for modern Indian families wanting to celebrate authentically at home
+
+## Caption
+Onam is not just a feast — it's love served on a banana leaf. 🍌🌼
+
+This year, bring the magic of a traditional Sadya to YOUR kitchen, no matter where you are in India.
+
+From pure cold-pressed coconut oil to fragrant cardamom, raw rice, fresh jaggery & tangy tamarind — PantryPulse has every single pantry staple you need to cook an authentic 26-dish Sadya at home.
+
+🛒 Our limited-edition Onam Sadya Box is LIVE — carefully curated, sourced fresh, delivered to your door.
+
+Because traditions taste better when the ingredients are real.
+
+Happy Onam! 🪷
+
+#Onam2026 #OnamSadya #PantryPulse #IndianPantryEssentials #SouthIndianFood #SadyaAtHome #KeralaFood #TraditionalCooking #FestiveFoodIndia #CleanEating #FarmToKitchen #OnlineGroceryIndia #IndianKitchen #FestiveVibes #Thiruvonam
+
+## Call to Action
+Order your limited-edition Onam Sadya Box now at PantryPulse.in — link in bio! 🛒
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+A photorealistic top-down flat lay of a beautifully arranged Onam Sadya served on a fresh green banana leaf placed on a warm wooden table in a bright modern Indian kitchen with natural sunlight streaming through a window. The banana leaf features small portions of avial, olan, thoran, sambar, rasam, payasam in a brass cup, papadum, banana chips, pickle, white rice mound in the center, with a brass oil lamp (nilavilakku) and fresh yellow marigold and white jasmine flowers arranged beside the leaf. Surrounding the leaf are premium pantry ingredients — a glass jar of golden cold-pressed coconut oil, whole green cardamom pods, a block of dark jaggery, dried red chillies, raw white rice in a brass bowl, and a small copper vessel of tamarind paste. Square 1:1 composition, vibrant natural colors, warm inviting tones, styled food photography, no text overlays
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+A cinematic 9:16 vertical video, 8 seconds long, opening with a smooth dolly-in shot toward a sunlit modern Indian kitchen counter where a woman's hands are gracefully arranging premium pantry items — a glass jar of golden coconut oil, brass bowls of cardamom pods, raw rice, and jaggery cubes — into a beautiful wooden crate lined with banana leaves. The camera then transitions with a seamless whip pan to a fully prepared Onam Sadya spread on a lush green banana leaf on a wooden dining table, with a lit brass nilavilakku lamp glowing warmly beside it and scattered marigold petals. The final frame slowly pushes in on the steaming payasam in a brass cup as cardamom pods drop in slow motion. Vibrant saturated colors, warm golden-hour natural lighting, shallow depth of field, cinematic color grading with warm Kerala-inspired tones, smooth fluid camera movement throughout
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
