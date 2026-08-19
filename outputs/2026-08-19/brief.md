@@ -1,0 +1,35 @@
+# PantryPulse Content Brief — 2026-08-19
+
+## Trend Topic
+Onam 2026 festive cooking & traditional Kerala Sadya preparation at home
+
+## Content Angle
+Helping modern Indian home cooks build the perfect Onam Sadya pantry — showcasing PantryPulse essentials like coconut oil, raw rice, jaggery, whole spices, tamarind, and lentils needed for authentic Sadya dishes like avial, olan, payasam, and sambar, making festival cooking effortless with doorstep delivery
+
+## Caption
+Onam is around the corner, and your kitchen deserves a Sadya-ready pantry! 🍌🪷
+
+From velvety payasam to the perfect avial, every dish starts with the right ingredients — pure coconut oil, fragrant cardamom, golden jaggery, fresh curry leaves & premium dal.
+
+This year, skip the last-minute bazaar rush. Let PantryPulse bring Kerala's finest to your doorstep so you can focus on what matters — cooking with love for your family. 💛
+
+Tag someone who makes the BEST Sadya! 👇
+
+#Onam2026 #OnamSadya #PantryPulse #KeralaCooking #FestiveKitchen #IndianPantryEssentials #Payasam #Avial #HomeCookedFestival #SadyaAtHome #TraditionalRecipes #OnlineGroceryIndia #FestiveCooking #KeralaFood #PantryGoals
+
+## Call to Action
+Shop your complete Onam Sadya pantry kit now at PantryPulse.in — link in bio!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+A photorealistic overhead flat-lay shot of a fully set traditional Kerala Onam Sadya served on a fresh green banana leaf, placed on a warm wooden table in a bright sunlit Indian kitchen. The banana leaf features small portions of avial, olan, thoran, sambar, rasam, pickles, papadum, banana chips, and a bowl of creamy payasam. Surrounding the banana leaf are neatly arranged raw pantry ingredients — a brass bowl of golden jaggery, whole green cardamom pods, a small copper vessel of pure coconut oil, raw red rice grains, yellow moong dal, tamarind, fresh curry leaves, and dried red chilies. Soft golden morning light streams through a window with sheer white curtains. A small brass oil lamp with a glowing flame and fresh yellow marigold flowers are placed in the corner. The scene feels abundant, warm, and festive. Square 1:1 format, sharp focus, rich saturated colors, no text overlays
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+A cinematic 9:16 vertical video, 8 seconds long, opening with a smooth slow dolly-in shot of a sunlit traditional Indian kitchen counter where a woman's hands gracefully pour golden coconut oil from a brass vessel into a hot iron kadai, the oil shimmering and catching the light. The camera then glides right in a fluid tracking motion past neatly arranged pantry ingredients — whole cardamom, jaggery chunks, fresh curry leaves, raw rice, and lentils in small brass bowls — each catching warm natural window light. The shot transitions with a gentle upward tilt to reveal a beautifully laid out Onam Sadya on a vibrant green banana leaf, steam rising softly from freshly served sambar and payasam. The final frame settles with shallow depth of field on the complete Sadya spread with a glowing brass lamp and scattered marigold petals in the foreground. Rich warm color grading, vibrant greens and golds, natural ambient kitchen sounds, smooth cinematic camera movement throughout
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
