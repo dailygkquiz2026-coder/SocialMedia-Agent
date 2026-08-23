@@ -1,0 +1,35 @@
+# PantryPulse Content Brief — 2026-08-23
+
+## Trend Topic
+Onam 2026 festivities and the growing trend of recreating traditional Sadya meals at home with premium pantry staples
+
+## Content Angle
+Helping home cooks build the perfect Onam Sadya from their pantry — highlighting PantryPulse essentials like pure coconut oil, Kerala red rice, whole spices, jaggery, and papadums that make an authentic feast possible anywhere in India
+
+## Caption
+Your Sadya deserves the best from your pantry 🍌🥥✨
+
+This Onam, skip the stress and stock up on everything you need for a show-stopping feast — pure Kerala coconut oil, fragrant whole spices, red rice, fresh jaggery, and crispy papadums.
+
+Whether you're in Kochi or Kolkata, PantryPulse brings the soul of Kerala straight to your kitchen.
+
+🪷 What's YOUR must-have Sadya dish? Tell us below 👇
+
+#Onam2026 #OnamSadya #PantryPulse #IndianPantryEssentials #KeralaCuisine #HomeCookedSadya #FestiveFeasting #CoconutOil #TraditionalCooking #OnlinGroceryIndia #SadyaAtHome #OnamVibes #KeralFood #FestivalOfHarvest #PantryGoals
+
+## Call to Action
+Tap the link in bio to shop our curated Onam Sadya Essentials Kit — delivery across India before the big day!
+
+---
+
+## Image Prompt (Krea AI / Flux)
+```
+A photorealistic overhead flat-lay shot of a traditional Kerala Onam Sadya served on a fresh green banana leaf, placed on a warm wooden table in a bright modern Indian kitchen with natural sunlight streaming through a window. The banana leaf features small portions of avial, olan, thoran, sambar, rasam, pachadi, payasam in a brass bowl, pickles, papadum, and a mound of red rice. Around the banana leaf are neatly arranged PantryPulse pantry ingredients: a glass bottle of golden coconut oil, whole cardamom pods, mustard seeds in a small brass bowl, a block of dark jaggery, dried red chillies, and curry leaves on a wooden cutting board. A brass oil lamp with a small flame sits in the corner. Warm golden tones, styled food photography, shallow depth of field on background, 1:1 square format, no text overlays
+```
+
+## Video Prompt (Krea AI / Kling)
+```
+A cinematic 9:16 vertical video, 8 seconds long, opening with a smooth downward crane shot revealing a sunlit modern Indian kitchen countertop where hands gracefully arrange small steel bowls of vibrant Sadya dishes — golden sambar, white olan, green thoran, red beetroot pachadi — onto a fresh banana leaf. The camera then glides forward in a slow dolly movement past a curated row of premium pantry staples: a bottle of coconut oil catching the light, whole spices scattered artfully, stacked papadums, and a brass bowl of jaggery. The sequence ends with a final bird's-eye stabilized shot as the last dish is placed and a hand gently breaks a crispy papadum over the complete Sadya spread. Warm natural daylight, vibrant saturated colors, shallow bokeh on the kitchen background with hanging brass utensils and green plants, subtle steam rising from the sambar, smooth 24fps cinematic motion
+```
+
+> **Krea video timed out.** Paste the video prompt above into [Krea AI](https://www.krea.ai) to generate manually.
